@@ -1,7 +1,3 @@
-Got it! Here's a revised version of the README, tailored to provide clear instructions on setting up the environment to run **Depth Anything V2**:
-
----
-
 # Depth Anything V2 Installation Guide
 
 This guide will walk you through setting up the environment to run **Depth Anything V2**.
