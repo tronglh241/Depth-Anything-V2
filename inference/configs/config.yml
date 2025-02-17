@@ -1,0 +1,5 @@
+image_path: "'assets/examples/demo01.jpg'"
+model_path: "'output/vits_644_406.onnx'"
+device: "'cpu'"
+out_dir: "'output'"
+out_name: "'pred'"
